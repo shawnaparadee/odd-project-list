@@ -10,7 +10,7 @@ assignees: ''
 ## Title
 Give a short description of the project
 
-### Details
+### Project Details
  Client:
  Start Date:
  End Date:
